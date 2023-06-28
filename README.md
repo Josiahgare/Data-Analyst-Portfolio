@@ -6,3 +6,4 @@ Hello, welcome to my data analyst portfolio project repository. This repository 
 | S/No | Project name | Description | Tools |
 |:--- | :--- |:---| :---|
 | 1 | [KPMG Virtual Internship](https://github.com/Josiahgare/Data-Analyst-Portfolio/KPMG-Virtual-Internship) | Finding high value customers and performing brand | Excel and Tableau |
+| 2 | [Accenture Virtual Experience](https://github.com/Josiahgare/Data-Analyst-Portfolio/Accenture-Virtual-Experience) | Analysis to uncover top 5 most popular category | Excel and Tableau |
