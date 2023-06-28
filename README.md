@@ -5,4 +5,4 @@ Hello, welcome to my data analyst portfolio project repository. This repository 
 ## Projects
 | S/No | Project name | Description | Tools |
 |:--- | :--- |:---| :---|
-| 1 | KPMG | Finding high value customers and performing brand | Excel and Tableau |
+| 1 | [KPMG Virtual Internship](https://github.com/Josiahgare/Data-Analyst-Portfolio/KPMG-Virtual-Internship) | Finding high value customers and performing brand | Excel and Tableau |
