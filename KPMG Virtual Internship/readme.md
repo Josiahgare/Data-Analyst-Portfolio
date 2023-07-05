@@ -74,7 +74,7 @@ Important questions to keep in mind during analysis.
 See presentation [here](https://github.com/Josiahgare/Data-Analyst-Portfolio/KPMG-Virtual-Internship/main/Data-Insights)
 
 ## Data Visualization
-See static dashboard [here](https://github.com/Josiahgare/Data-Analyst-Portfolio/KPMG-Virtual-Internship/main/Data-Visualization.png)  
+See static dashboard [here](https://github.com/Josiahgare/Data-Analyst-Portfolio/blob/main/KPMG%20Virtual%20Internship/Data%20Visualization.png)  
 Check out the interactive dashboard below  
 See [Tableau Dashboard](https://public.tableau.com/app/profile/josiah.oghenegare/viz/SprocketCentralCustomerAnalysis_16849214653940/SummaryDashboard)
 
