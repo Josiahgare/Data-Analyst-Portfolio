@@ -9,13 +9,13 @@ The datasets are listed below;
 These datasets were extracted, transformed, and loaded (ETL) into Microsoft SQL Server where data cleaning and data preparation exercise where performed.
 
 ## Data Cleaning
-The data cleaning exercise on `CustomerAddress` dataset can be found [here](https://github.com/josiahgare/Data-Analyst-Portfolio/main/Data-Cleaning-with-SQL/CustomerAddress.sql)  
-The data cleaning exercise on `CustomerDemographic` dataset can be found [here](https://github.com/josiahgare/Data-Analyst-Portfolio/main/Data-Cleaning-with-SQL/CustomerDemographic.sql)  
-The data cleaning exercise on `Transactions` dataset can be found [here](https://github.com/josiahgare/Data-Analyst-Portfolio/main/Data-Cleaning-with-SQL/Transactions.sql)  
+The data cleaning exercise on `CustomerAddress` dataset can be found [here](https://github.com/Josiahgare/Data-Analyst-Portfolio/blob/main/Data%20Cleaning%20with%20SQL/CustomerAddress.sql)  
+The data cleaning exercise on `CustomerDemographic` dataset can be found [here](https://github.com/josiahgare/Data-Analyst-Portfolio/blob/main/Data%20Cleaning%20with%20SQL/CustomerDemographic.sql)  
+The data cleaning exercise on `Transactions` dataset can be found [here](https://github.com/josiahgare/Data-Analyst-Portfolio/blob/main/Data%20Cleaning%20with%20SQL/Transactions.sql)  
 
 ## Data Preparation
 The cleaned `CustomerAddress` and `CustomerDemographic` datasets were merged into a new table `CustomerList` can be found 
-[here](https://github.com/josiahgare/Data-Analyst-Portfolio/main/Data-Cleaning-with-SQL/CustomerAddress.sql)  
+[here](https://github.com/josiahgare/Data-Analyst-Portfolio/blob/main/Data%20Cleaning%20with%20SQL/CustomerAddress.sql)  
 
 ## Exporting data
 After cleaning and preparing the data, the data can be exported to **Tableau** or **Power BI** for data visualization. 
