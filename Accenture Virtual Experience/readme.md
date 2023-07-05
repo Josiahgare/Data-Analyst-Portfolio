@@ -50,7 +50,7 @@ After exploring and cleaning the data, `VLOOKUP` function was used to model and 
 
 ## Data Visualization with Tableau
 The cleaned data was loaded into Tableau for proper visualizaion.  
-See [static dashboard](https://github.com/Josiahgare/Data-Analyst-Portfolio/Accenture-Virtual-Experience/Dashboard_1)  
+See [static dashboard](https://github.com/Josiahgare/Data-Analyst-Portfolio/blob/main/Accenture%20Virtual%20Experience/Dashboard%201.png)  
 Check out my [Interactive dashboard](https://public.tableau.com/views/SocialBuzzAnalysisonContentCategoriesfromJune2020toJune2021/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) on Tableau public
 
 ## Insights
