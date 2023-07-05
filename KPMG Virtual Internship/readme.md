@@ -71,7 +71,7 @@ Important questions to keep in mind during analysis.
 * What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
 *	What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 
-See presentation [here](https://github.com/Josiahgare/Data-Analyst-Portfolio/KPMG-Virtual-Internship/main/Data-Insights)
+See presentation [here](https://github.com/Josiahgare/Data-Analyst-Portfolio/blob/main/KPMG%20Virtual%20Internship/Data%20Insights.pdf)
 
 ## Data Visualization
 See static dashboard [here](https://github.com/Josiahgare/Data-Analyst-Portfolio/blob/main/KPMG%20Virtual%20Internship/Data%20Visualization.png)  
