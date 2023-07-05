@@ -56,7 +56,7 @@ The datasets needed to be cleaned and prepared for data modeling and data intrep
 ![Transaction data](https://github.com/Josiahgare/Data-Analyst-Portfolio/assets/117512409/d4e12d65-c736-45b1-b8aa-cd488822f676)
 * Null records from `brand` column were deleted
 
-See report [here](https://github.com/Josiahgare/Data-Analyst-Portfolio/KPMG-Virtual-Internship/main/Data-Quality-Assessment)
+See report [here](https://github.com/Josiahgare/Data-Analyst-Portfolio/KPMG-Virtual-Internship/blob/main/KPMG%20Virtual%20Internship/Data%20Quality%20Assessment.pdf)
 
 ### Data Modeling
 ![Cleaned_Customerlist](https://github.com/Josiahgare/Data-Analyst-Portfolio/assets/117512409/fc6151ad-78cf-4e14-8b15-3d9fae874a9c)
