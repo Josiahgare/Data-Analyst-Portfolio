@@ -76,7 +76,7 @@ See presentation [here](https://github.com/Josiahgare/Data-Analyst-Portfolio/blo
 ## Data Visualization
 See static dashboard [here](https://github.com/Josiahgare/Data-Analyst-Portfolio/blob/main/KPMG%20Virtual%20Internship/Data%20Visualization.png)  
 Check out the interactive dashboard below  
-See [Tableau Dashboard](https://public.tableau.com/app/profile/josiah.oghenegare/viz/SprocketCentralCustomerAnalysis_16849214653940/SummaryDashboard)
+See [Tableau Dashboard](https://public.tableau.com/views/SprocketCentralCustomerAnalysis_16849214653940/SummaryDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Recommendation
 * New South Wales should be the focus of next year’s campaign
